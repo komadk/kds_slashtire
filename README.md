@@ -1,6 +1,6 @@
 # kds_slashtire 🔪🚗
 
-![Preview](https://cdn.discordapp.com/attachments/1374029346607726604/1375418181581148223/KD-Scripts.Slashtire.jpg?ex=68319d80&is=68304c00&hm=552b717632e88c2169f288fcbae6ab84d46c0c5460397cc29a398b92f0269249&)
+![Preview](https://cdn.discordapp.com/attachments/1374029346607726604/1375418181581148223/KD-Scripts.Slashtire.jpg?ex=68359200&is=68344080&hm=64556719a163a6c2689599a38b882f6ba96f4ac58ce29b48cb8b665d281c42fa&)
 
 ## Description
 is a FiveM script that lets players slash vehicle tires with a knife by targeting the wheels! Made to add realism and fun to your ESX roleplay servers.
